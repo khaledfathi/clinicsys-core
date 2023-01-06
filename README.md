@@ -14,6 +14,8 @@ Features
 * Config From External Env File
 * Bultin URI managment (Paths , URLs and Redirect)
 * Bultin Validation functions (Text , Password , Email)
+* Include Whoops Error Managment
+* Include Smarty Template Engine
 
 
 
