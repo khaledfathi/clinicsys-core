@@ -1,0 +1,24 @@
+{
+    "name": "clinicsys/core",
+    "description": "Core lib for Clinic system Application [Eraasoft practice project]",
+    "type": "library",
+    "require": {
+        "filp/whoops": "^2.14",
+        "smarty/smarty": "^4.3" 
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Clinicsys\\Core\\": "src/"
+        },"files":[
+            "src/Helper/URI.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "khaledfathi",
+            "email": "khaledfathi@protonmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
